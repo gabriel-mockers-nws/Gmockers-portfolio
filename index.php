@@ -59,15 +59,14 @@ require_once 'elements/header.php'; ?>
         </a>
     </button>
     <button>
-        <a href="https://www.linkedin.com/in/gabriel-mockers/">
-            Linkedin
+        <a href="#">
+            Contactez-moi
         </a>
     </button>
     <button>
-        <a href="https://www.linkedin.com/in/gabriel-mockers/">
-            Linkedin
+        <a href="#">
+            Téléchargez mon CV
         </a>
     </button>
-
 </div>
 <?php require_once 'elements/footer.php' ?>
