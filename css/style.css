@@ -5,4 +5,7 @@
     --secondary-colors: #de2ac0;
     --colors-white:  #f5f5f5; 
 
+    /* radius */ 
+    --button-radius : 50px;
+
 }

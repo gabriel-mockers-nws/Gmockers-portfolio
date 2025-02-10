@@ -17,6 +17,16 @@
 </head>
 <body>
     <header>
-
+        <div class="title">
+            <p> <strong>MOCKERS Gabriel</strong></p>
+            <p><em>Recherche d'alternance</em></p>
+        </div>
+        <div class="header-btn">
+            <button>
+                <a href="https://github.com/gabriel-mockers-nws">
+                Github
+                </a>
+            </button>
+        </div>
     </header>
     <main>
